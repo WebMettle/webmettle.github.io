@@ -13,7 +13,7 @@ layout: home
 patch information to resolve cybersecurity issues faster. You can see a quick 35-second demo of the app
 [here on YouTube][MettleCVEYouTubeDemoURL].
 
-Available as a free download from the [Apple App Store][MettleCVEAppURL].
+MettleCVE is a free download from the [Apple App Store][MettleCVEAppURL].
 
 [<img src="images/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" title="Goto the Apple App Store..." height="40%" width="40%">](https://apps.apple.com/us/app/mettlecve/id1555613958)
 
