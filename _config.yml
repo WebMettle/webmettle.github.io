@@ -30,6 +30,7 @@ description: Easy software for hard problems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://webmettle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+linkedin_companyname: WebMettle
 twitter_username: WebMettle
 instagram_username: WebMettle
 
