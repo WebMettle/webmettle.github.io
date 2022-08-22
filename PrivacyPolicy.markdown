@@ -4,8 +4,6 @@ title: "Privacy Policy"
 permalink: /PrivacyPolicy/
 ---
 
-**Privacy Policy**
-
 Thank you for visiting WebMettle.com. We are committed to the privacy of our users. Please review and access
 the supporting information for details on the data we collect and how it is used.
 
@@ -32,8 +30,8 @@ Please visit the following Webpage for details:
 
 **The WebMettle.com Website**
 
-WebMettle.com is a GitHub Pages hosted Website. Information about the data that is collected by visiting
-our Website is described in the GitHub Privacy Notice which can be found here:
+WebMettle.com (and WebMettleSystems.com) is a GitHub Pages hosted Website. Information about the data
+that is collected by visiting our Website is described in the GitHub Privacy Notice which can be found here:
 
 [https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement][GitHubPagesPrivacyPolicy]
 
