@@ -15,7 +15,7 @@ patch information to resolve cybersecurity issues faster. You can see a quick 35
 
 Available as a free download from the [Apple App Store][MettleCVEAppURL].
 
-[<img src="images/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" title="Goto the Apple App Store..." height="65%" width="65%">](https://apps.apple.com/us/app/mettlecve/id1555613958)
+[<img src="images/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" title="Goto the Apple App Store..." height="50%" width="50%">](https://apps.apple.com/us/app/mettlecve/id1555613958)
 
 [MettleCVEYouTubeDemoURL]: https://www.youtube.com/watch?v=1yEPwOJVhMo
 [MettleCVEAppURL]: https://apps.apple.com/us/app/mettlecve/id1555613958
