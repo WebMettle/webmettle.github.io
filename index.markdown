@@ -5,4 +5,6 @@
 layout: home
 ---
 
-<img src="/images/WebMettle-1024x1024-bl-on-wh.jpg" title="WebMettle Systems logo" height="50%" width="50%">
+<p style="text-align: center">Easy software for hard problems.<br>
+   <img src="/images/WebMettle-1024x1024-bl-on-wh.jpg" title="WebMettle Systems logo" height="50%" width="50%">
+</p>
