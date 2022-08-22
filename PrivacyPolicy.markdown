@@ -4,8 +4,8 @@ title: "Privacy Policy"
 permalink: /PrivacyPolicy/
 ---
 
-Thank you for visiting WebMettle.com. We are committed to the privacy of our users. Please review and access
-the supporting information for details on the data we collect and how it is used.
+Thank you for visiting WebMettle.com. We are committed to the privacy of our MettleCVE users.
+Please review and access the supporting information for details on the data we collect and how it is used.
 
 **The MettleCVE iPhone App**
 
