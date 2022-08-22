@@ -5,6 +5,8 @@
 layout: home
 ---
 
-This is WebMettle.com.
+# WebMettle Systems
 
-New site coming soon!
+### Easy software for hard problems.
+
+![WebMettle Systems](/images/WebMettle-1024x1024-bl-on-wh.jpg "WebMettle Systems logo")
