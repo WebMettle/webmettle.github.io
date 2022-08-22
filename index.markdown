@@ -4,9 +4,6 @@
 
 layout: home
 ---
-
-# WebMettle Systems
-
 ### Easy software for hard problems.
 
-![WebMettle Systems](/images/WebMettle-1024x1024-bl-on-wh.jpg "WebMettle Systems logo")
+[<img src="/images/WebMettle-1024x1024-bl-on-wh.jpg" title="WebMettle Systems logo" height="50%" width="50%">]
