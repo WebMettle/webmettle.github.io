@@ -7,7 +7,7 @@ layout: home
 
 *Easy software for hard problems.*
 
-<img src="/images/WebMettle-1024x1024-bl-on-wh.jpg" title="WebMettle Systems logo" height="35%" width="35%">
+<img src="/images/MettleCVE-150x150px.png" title="WebMettle Systems logo" height="35%" width="35%">
 
 **MettleCVE** is a vulnerability lookup tool for iPhone that helps Security Remediation Teams access
 patch and workaround information to resolve cybersecurity issues faster. You can see a quick 35-second
