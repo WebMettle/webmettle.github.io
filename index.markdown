@@ -10,8 +10,8 @@ layout: home
 <img src="/images/WebMettle-1024x1024-bl-on-wh.jpg" title="WebMettle Systems logo" height="35%" width="35%">
 
 **MettleCVE** is a vulnerability lookup tool for iPhone that helps Security Remediation Teams access
-patch information to resolve cybersecurity issues faster. You can see a quick 35-second demo of the app
-[here on YouTube][MettleCVEYouTubeDemoURL].
+patch and workaround information to resolve cybersecurity issues faster. You can see a quick 35-second
+demo of the app [here on YouTube][MettleCVEYouTubeDemoURL].
 
 MettleCVE is a free download from the [Apple App Store][MettleCVEAppURL].
 
