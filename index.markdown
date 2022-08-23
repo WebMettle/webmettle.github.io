@@ -17,6 +17,8 @@ demo of the app [here on YouTube][MettleCVEYouTubeDemoURL].
 
 MettleCVE is a free download from the [Apple App Store][MettleCVEAppURL].
 
+<br>
+
 [<img src="images/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" title="Goto the Apple App Store..." height="35%" width="35%">](https://apps.apple.com/us/app/mettlecve/id1555613958)
 
 [MettleCVEYouTubeDemoURL]: https://www.youtube.com/watch?v=1yEPwOJVhMo
